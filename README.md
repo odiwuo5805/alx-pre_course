@@ -1,2 +1,1 @@
-am an engineer
-Fullstack Developer
+Starting to code today, so cool
